@@ -1,0 +1,25 @@
+{
+  "name": "zero-to-tech",
+  "version": "1.0.0",
+  "description": "我的第一个前端学习项目",
+  "main": "script.js",
+  "scripts": {
+    "dev":"vite",
+    "build":"vite build",
+    "preview":"vite preview",
+    "hello":"dir",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkp1142429947-boop/zero-to-tech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tkp1142429947-boop/zero-to-tech/issues"
+  },
+  "homepage": "https://github.com/tkp1142429947-boop/zero-to-tech#readme"
+}
